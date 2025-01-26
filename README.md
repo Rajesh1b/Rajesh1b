@@ -59,8 +59,8 @@ I am an experienced **AWS DevOps Engineer** with **3+ years of experience** in a
 ## 🛠 Technical Skills
 
 - **Cloud Platforms**:  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)  
-  AWS (EC2, S3, RDS, Lambda, VPC, CloudFormation, Route 53, IAM, CloudWatch), GCP, Azure
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)  
+  AWS (EC2, S3, RDS, Lambda, VPC, CloudFormation, Route 53, IAM, CloudWatch)
   
 - **Infrastructure as Code (IaC)**:  
   ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)  
@@ -68,7 +68,7 @@ I am an experienced **AWS DevOps Engineer** with **3+ years of experience** in a
 
 - **CI/CD**:  
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)  
-  Jenkins, AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy
+  Jenkins, GitHub Actions
 
 - **Containerization & Orchestration**:  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)  
@@ -86,7 +86,7 @@ I am an experienced **AWS DevOps Engineer** with **3+ years of experience** in a
   MySQL, PostgreSQL, DynamoDB, Amazon RDS
 
 - **Security**:  
-  AWS IAM, Security Groups, NACL, AWS KMS, AWS Inspector, GuardDuty
+  AWS IAM, Security Groups, NACL, AWS KMS
 
 ---
 
