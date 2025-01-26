@@ -41,18 +41,18 @@ I am an experienced **AWS DevOps Engineer** with **3+ years of experience** in a
 
 - 3 years of experience as AWS Devops engineer specializing in cloud infrastructure management and automation and system reliability.
 - Experience with **AWS** - including but not limited to **EC2, IAM, S3, VPC, RDS, ECR, EKS** ensuring efficient and secure cloud operations.
-- Managed AWS resources using Infrastructure as Code (IaC) with Terraform for provisioning and Ansible for configuration management, reducing deployment time by 50% and improving overall process efficiency.
-- Developed and maintained Ansible playbooks to automate server configurations, execute routine Linux scripts, and manage patch updates, ensuring system reliability and security across development, staging, and production environments for all Unix servers.
-- Collaborated with cross-functional teams to ensure seamless project delivery in an agile environment.
-- Resolved and troubleshot issues in CI/CD pipelines, improving pipeline reliability and reducing downtime by 30%.
-- Automated the Build, Test, and Deployment processes using Jenkins-based CI/CD pipelines for Kubernetes clusters, Docker containerization, and SonarQube code analysis, leading to 20% faster release cycles.
+- Managed AWS resources using **Infrastructure as Code (IaC)** with **Terraform** for provisioning and **Ansible** for **configuration management**, reducing deployment time by 50% and improving overall process efficiency.
+- Developed and maintained **Ansible playbooks** to automate server configurations, execute routine **Linux scripts**, and manage patch updates, ensuring system reliability and security across development, staging, and production environments for all **Unix** servers.
+- Collaborated with cross-functional teams to ensure seamless project delivery in an **Agile** environment.
+- Resolved and troubleshot issues in **CI/CD pipelines**, improving pipeline reliability and reducing downtime by 30%.
+- Automated the Build, Test, and Deployment processes using **Jenkins-based** CI/CD pipelines for **Kubernetes** clusters, **Docker** containerization, and **SonarQube** code analysis, leading to 20% faster release cycles.
 - Providing 24*7 on call support for managing deployments.
-- Created and deployed Docker containers for pre-deployment application testing and validation, improving developer workflow and ensuring 95% consistency in application environments.
-- Set up Kubernetes Ingress and Ingress controllers from scratch, optimizing application routing and resource allocation.
+- Created and deployed **Docker containers** for pre-deployment application testing and validation, improving developer workflow and ensuring 95% consistency in application environments.
+- Set up **Kubernetes Ingress** and **Ingress controllers** from scratch, optimizing application routing and resource allocation.
 - Implemented and managed Static Application Security Testing (SAST) using SonarQube to identify vulnerabilities, improve code quality, enforce security standards , reducing defects by 15% across multiple projects.
 - Automated Software Composition Analysis (SCA) workflows with Trivy to detect and mitigate risks in containerized environments, reducing deployment vulnerabilities.
-- Configured and optimized Nexus Repository Manager for storing and distributing build artifacts (e.g., Maven) across multiple teams and environments.
-- Monitored system health and performance using Prometheus for metrics collection and Grafana for visualization, identifying performance bottlenecks and ensuring 99% uptime.
+- Configured and optimized **Nexus** Artifactory Manager for storing and distributing build artifacts (e.g., **Maven**) across multiple teams and environments.
+- Monitored system health and performance using **Prometheus** for metrics collection and **Grafana** for visualization, identifying performance bottlenecks and ensuring 99% uptime.
 
 ---
 
