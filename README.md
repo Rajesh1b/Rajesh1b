@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Rajesh Bhosale** | AWS DevOps Engineer
 
-**AWS CCP ** |
-📍 **Location**: Pune, Maharashtra, India | ✉️ **Email**: [rbhosale027@gmail.com](mailto:rbhosale027@gmail.com)  
+**AWS CCP ** | **GCP ACE ** |
+📍 **Location**: Pune, Maharashtra, India |  
 🔗 **LinkedIn**: [www.linkedin.com/in/rajeshvb](https://linkedin.com/in/rajeshvb) | | 💻 **GitHub**: [github.com/Rajesh1b](https://github.com/Rajesh1b)
 
 ---
